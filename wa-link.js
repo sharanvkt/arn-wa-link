@@ -1,1 +1,1 @@
-const waLink = "https://jsitor.com/";
+const waLink = "https://skyrokett.com/";
