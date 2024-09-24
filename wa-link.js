@@ -1,1 +1,1 @@
-const waLink = "https://meet.google.com/";
+const waLink = "https://skyrokett.com/";
