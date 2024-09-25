@@ -1,1 +1,1 @@
-const waLink = "https://chat.whatsapp.com/J2ibJqobmFkLAWqnykQdCp";
+const waLink = "https://parcel.io/tools/calendar";
