@@ -1,1 +1,1 @@
-const waLink = "https://ap-wa-link-updater.vercel.app/";
+const waLink = "https://www.youtube.com/watch?v=zNfT7pnZdss";
