@@ -1,1 +1,1 @@
-const waLink = "https://www.youtube.com/mkbhd";
+const waLink = "https://www.youtube.com/mkbhdgg";
