@@ -1,1 +1,1 @@
-const waLink = "https://chat.whatsapp.com/L1I2xpLBlCmJj032jxbsUG";
+const waLink = "https://chat.whatsapp.com/EwOXiqyjhV35iZleUeXO2g";
